@@ -1,0 +1,5 @@
+/******* Configuration File *******/
+#Worker:8
+#Max Connection:512
+#Port:5055
+#Pages Path:./
